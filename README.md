@@ -43,9 +43,9 @@ cd IoT-Ransomware-Detection
 ```python detect_ransomware.py```
 
 ## 🖥️ Usage
-1️⃣ Run the script to simulate IoT activity and ransomware detection
-2️⃣ Monitor the output, where normal and abnormal behavior will be shown
-3️⃣ Alert system will print a warning if ransomware-like activity is detected
+- 1️⃣ Run the script to simulate IoT activity and ransomware detection
+- 2️⃣ Monitor the output, where normal and abnormal behavior will be shown
+- 3️⃣ Alert system will print a warning if ransomware-like activity is detected
 
 ## 📊 Example Output
 ```[INFO] Normal Activity: CPU: 30% | Disk: 40%
@@ -56,12 +56,12 @@ cd IoT-Ransomware-Detection
 ```
 
 ### 🛡️ Future Improvements
-🚀 Enhancing AI Model: Use deep learning for better accuracy
-🛡️ Automated Mitigation: Block infected devices on detection
-📡 Edge Integration: Deploy on real Edge IoT devices
+- 🚀 Enhancing AI Model: Use deep learning for better accuracy
+- 🛡️ Automated Mitigation: Block infected devices on detection
+- 📡 Edge Integration: Deploy on real Edge IoT devices
 
 ### 📬 Contact
-👤 Achref Bensaad
-📧 achref.bensaad@outlook.com
-🐙 GitHub: AchBs
-🚀 LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/achref-bensaad/)
+- 👤 Achref Bensaad
+- 📧 achref.bensaad@outlook.com
+- 🐙 GitHub: AchBs
+- 🚀 LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/achref-bensaad/)
